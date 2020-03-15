@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "716b9b71811be06b772869756b01911d",
+    "revision": "5e086abd2e7d677256703f9fcf9e7bd1",
     "url": "/mango-master-piece/index.html"
   },
   {
-    "revision": "8c8491def2081e2e289e",
+    "revision": "030e9bff712a04392c8c",
     "url": "/mango-master-piece/static/css/main.72f7d7db.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mango-master-piece/static/js/2.07d2f9e0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8c8491def2081e2e289e",
-    "url": "/mango-master-piece/static/js/main.6352cb30.chunk.js"
+    "revision": "030e9bff712a04392c8c",
+    "url": "/mango-master-piece/static/js/main.033daa9d.chunk.js"
   },
   {
     "revision": "1c29b0d70de6a0e2809e",
