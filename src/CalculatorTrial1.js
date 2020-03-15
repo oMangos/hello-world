@@ -35,7 +35,7 @@ class MagicMachine extends React.Component {
 
     return (
       <div>
-        <h3>TODO</h3>
+        <h3>World's smartest calculator</h3>
         <form onSubmit={this.handleSubmit}>
           <p>
             <label htmlFor="new-todo">

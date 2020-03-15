@@ -10,11 +10,11 @@ function App() {
         <img src={funny} className="App-logo" alt="logo" />
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.facebook.com/gilbertoe.choy?ref=bookmarks"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Click here to look at handsome
         </a>
         <CalculatorTrial1/>
       </header>
