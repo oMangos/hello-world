@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hello-world/static/css/main.72f7d7db.chunk.css",
+    "main.js": "/hello-world/static/js/main.1dd6d2c8.chunk.js",
+    "main.js.map": "/hello-world/static/js/main.1dd6d2c8.chunk.js.map",
+    "runtime-main.js": "/hello-world/static/js/runtime-main.be3f9db4.js",
+    "runtime-main.js.map": "/hello-world/static/js/runtime-main.be3f9db4.js.map",
+    "static/js/2.07d2f9e0.chunk.js": "/hello-world/static/js/2.07d2f9e0.chunk.js",
+    "static/js/2.07d2f9e0.chunk.js.map": "/hello-world/static/js/2.07d2f9e0.chunk.js.map",
+    "index.html": "/hello-world/index.html",
+    "precache-manifest.e6adb2993e3a714d0c0c60f5901d78ba.js": "/hello-world/precache-manifest.e6adb2993e3a714d0c0c60f5901d78ba.js",
+    "service-worker.js": "/hello-world/service-worker.js",
+    "static/css/main.72f7d7db.chunk.css.map": "/hello-world/static/css/main.72f7d7db.chunk.css.map",
+    "static/js/2.07d2f9e0.chunk.js.LICENSE.txt": "/hello-world/static/js/2.07d2f9e0.chunk.js.LICENSE.txt",
+    "static/media/funny.svg": "/hello-world/static/media/funny.6238709a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be3f9db4.js",
+    "static/js/2.07d2f9e0.chunk.js",
+    "static/css/main.72f7d7db.chunk.css",
+    "static/js/main.1dd6d2c8.chunk.js"
+  ]
+}
